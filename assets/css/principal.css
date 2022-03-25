@@ -1,3 +1,9 @@
-body {color: aliceblue;
+body {color: rgb(2, 2, 2);
     background-color: crimson;
+}
+
+#logo img{
+    width: 300px;
+    border:2px;
+    border-radius: 2px;
 }
