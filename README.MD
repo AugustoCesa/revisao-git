@@ -54,6 +54,15 @@ Em volta da palavra ou termo.
 - [] Ler a documentação do git/github
 
 
+# Branchs
+
+git branch -> Lista as branchs no computador
+git branch nome_da_nova_branch -> não colocar acento ou ç, use e use undescore para os espaços em branco
+git switch nome_da_branch -> muda de branch
+
+Metodo alternativo para o GIT SWITCH: git checkout nome_da_branch
+
+
  ## Referencias:
 
  * [Documentação do github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
